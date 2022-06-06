@@ -8,4 +8,4 @@ app.set('view engine', 'ejs');
 
 app.use('/',routerMain);
 
-app.listen(3000, ()=>console.log('Server running...'+"http://localhost:3001"))
+app.listen(3000, ()=>console.log('Server running...'+"http://localhost:3000"))
