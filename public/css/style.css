@@ -1,0 +1,10 @@
+.fecha{
+    width: 70%;
+    margin:auto;
+    padding:10px;
+}
+
+.fecha__completa{
+    text-align:center;
+}
+
